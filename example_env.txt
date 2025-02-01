@@ -1,0 +1,7 @@
+AUTH_SECRET="secret"
+NEXTAUTH_URL="http://localhost:3000"
+DB_USER_NAME="USERNAME"
+DB_HOST="localhost"
+DB_NAME="DATABASE_NAME"
+DB_PASSWORD="postgres"
+DB_PORT=5432
